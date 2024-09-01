@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  background-image: url(./assets/gerador-de-senha-16113516654652.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: grid;
+  text-align: center;
+  align-items: center;
+}
+h2{
+  font-size: 4rem;
+  color: rgb(67, 93, 179);
+}
+
+button{
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: rgb(92, 190, 67);
+
+}
