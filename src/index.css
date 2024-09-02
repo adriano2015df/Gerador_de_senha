@@ -13,12 +13,19 @@ body {
   text-align: center;
   align-items: center;
 }
-h2{
+h1{
   font-size: 4rem;
   color: rgb(67, 93, 179);
 }
 
-button{
+.passwordSize{
+  color: rgb(67, 93, 179);
+  margin: 1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+button, input{
   margin: 2rem;
   padding: 1rem;
   border-radius: 1rem;
